@@ -1,6 +1,7 @@
+#!/usr/bin/env python
+
 import pytest
 from tidyplusPy import md
-import numpy as np
 
 class Test_md:
 
